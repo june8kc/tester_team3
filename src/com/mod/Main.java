@@ -7,5 +7,6 @@ public class Main {
         System.out.println("first modification");
         System.out.println("second modification");
         System.out.println("third modification");
+        System.out.println("Osman's note");
     }
 }
