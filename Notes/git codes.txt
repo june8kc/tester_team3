@@ -1,0 +1,13 @@
+git --version
+git init ---> initialize your git repository for the first time(u will do that only once)
+git config --global user.email "email_adresiniz"
+git config --global user.name "isminiz"
+git config --global color.ui true 
+git status
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/techproed2020/Git_...
+git log --->gives you all commits history
+git show  b26f507(identification)---> to see content of any commit
+git push -u origin master
