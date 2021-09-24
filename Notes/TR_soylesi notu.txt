@@ -1,0 +1,44 @@
+HAZIRLIK SURECI
+
+-ekip isi- mativasyon
+-aktif bir projede yer al-githuba koy-gonullu de olabilir-sirketi arastırıp- sirketi otomatize etmek gerek- aktif bir projeyi otomotize etme
+-alberte bak, calıs
+-bir cv ile yuz sirkete basvurma, her sirket icin job descriptionda yazılan ozellikleri on plana cıkar.
+-keyword, etkili kelimeler kulanma
+-linkeInin sunduklarını yapmak pozitif etkili 
+-motivasyonu on plana cıkaracak yazılar paylasma
+-keywordleri CV de ve liked in de yaz.(or:selenium)
+-ogrenirim, 
+-mulaktta gelebilecek sorulara hazırlıklı olmak lazım(or: mob otomasyona basvuruyorsak, birseyler ogrenmek lazım)
+-recruiterler keywordler ile suzer
+-network gelistir-recruiterlar vs.
+-ilanı yayına alanlara linkedIn uzerinden ulasma ve kısa bir mesaj-premium uyeliği 
+-etkileşimlere hemen donus yap-bir daha onun pesini bırakma
+-sirkette calısanları networke ekle ve interview icin destke iste-mumkunse iki yıl ve uzerinde calısanlar olursa daha faydalı-calısma kosulları sorun-interview bilgisi icin de 1 yıl ve daha az tecrubeli olanlardan bilgi almak daha faydalı-taze bilgi
+-Resumeye proje ekleme
+-recruiter ile aracılık yapacak birini bulma(tecrubeli biri)-referans olsun-birseyler soylesin sizin hakknızda
+-network olustturun-ozellikle uzun zamanda piyasada olan recruiter yada seniorlar
+-recruter ararsa ve siz de open to work degilseniz-baskasını refere edin
+
+INTERVIEW SURECI
+
+-Tell me about yourself saglam olsun-susturana kadar dolu olsun ve anlatın- en az 15 dakıkalık birseyler olsun-sizi susturana kadar anlatın-projelerden bahsedebilirsiniz
+-CV de yazılanları rahatlıkla savunabilecek durumda ol
+-githubdan ornekler gosterilebilir
+-kavramlara hakim ol-cok tecrubeli olmadıgını da acıkca ifade et
+-bilmiyorum yok-ogrenirim- bilgim var- calısmak isterim
+-kod yazacaksınız-dersler ve tekrarlar haricinde projede yer almak isinizi cok kolaylastiracak
+-java mulakat sorularını neredeyse ezberleyin
+-kendinize guvenin-bilmedigin noktada rahatlıkla ifade edin-alan cok genis ve bu normal-bilmemek ozguvensizlik nedeni olmamalı
+
+
+INTERVIEW SONRASI-BEKLEME SURECI
+
+-recruiter ile devam et-baglantıyı koparma
+-recruiterin ilanlarına hemen yaz-
+-interviewdan sonra intervieew yapan kisilerle network olustur. ismini ogren
+
+OLUMLU DONUS
+
+-maaş kkonusunda acık kapı bırakma-kurumsal firmalar icin zaten range bellidir gibi ifadeler kullanılabilir.
+-ben soyle birsey dusunuyorum sizin icin de sonuc pozitifse anlasabiliriz gibi acık kapı bırakmak lazım

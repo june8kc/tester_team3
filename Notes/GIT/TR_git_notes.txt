@@ -1,0 +1,92 @@
+git --version
+git init ---> initialize your git repository for the first time(u will do that only once)
+git config --global user.email "email_adresiniz"
+git config --global user.name "isminiz"
+git config --global color.ui true 
+git status
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/techproed2020/Git_...
+git log --->gives you all commits history
+git show  b26f507(identification)---> to see content of any commit
+git push -u origin master
+
+
+Command Prompt
+-q sorundan cıkar
+-git --version
+-cd-konum degistirme-> cd .. bir ust klasor---changing directory
+-shift + windows+s  screenshot kopyası alır
+-dir--->o klasordekileri gosterir
+-cd klasor adı-->klasorun icine girer
+-yanında dir yazanlar klasor-dir yazmayanlar dosya
+-cls-->ekranı temizler
+-cd/-->en tepeye gider
+-mkdir-->make directory-klasor olusturur
+--rmdir-->remove directory-klasor silme
+-echo icerik >dosya adı.txt-->dosya olusturur ve iceirigi koyar
+-del -->dosya silme
+-ren -->klasor ve dosya ismi degistirme
+-code .   -->klasoru ide de acar
+-more-->dosyanın icerigini gorme
+
+GIT
+-Git:localde verisyon yonetim sistemi
+-GitHub: remote
+-git init-->localde baslar
+
+-working space: git klasoruun bulundugu calısma alanı
+-staging area: versiyon olusturulmadan onceki yer
+-commit store:verisyon olusturuluyor
+-git add staging areaya gonderma
+-git commit -m""   m(message)   commit(veriyon olusturma)
+-git status: statu gormek
+-git log: alınmıs versiyonların listesi
+-git init kullanmak icin o klasor icerisinde olmak lazım
+-git config --global user.email "osman200181@gmail"
+-git config --global user.name "osman"
+-git show commit kodunun ilk 7 hanesi-->o committeki degisikliklieri gosterir
+-git restore dosya adı(src/index.html)-->workspacedeki o dosya uzerindeki degisitklikleri geriye dondurur
+-git restore .  --->>workspacedeki tum dosyalar uzerindeki degisitklikleri geriye dondurur
+
+
+-git restore --staged dosya adı yada . ile tamamını geriye dondurur--->bu kod sadece stagedekileri geriye dondurur. workspace aynı kalır
+-git reset --hard-->hem workspacei hem de staging arear yı bosaltıyor
+-git reset --hard hash -->hash kodu yazılan commitden sonrakileri kalıcı siler
+
+
+-git checkout [Hash] dosya adı-->commitsdeki dosya hash ile verilen versiyona doner
+-git checkout [Hash] . -->commitsdeki hersey hash ile verilen versiyona doner
+***Ama yukarıdaki degisikligin kalıcı olması commit -m yapmak lazım
+
+
+BRANCH 
+-git branch [isim]   -->isminde branc olusturur
+-git branch-->hangi branchtesin--* onu gosterir
+-git checkout [isim]  -->ismindeki branche gecer
+-git log oneline-->bulunulan branchteki versiyonlrı kontrol eder(branch olusturulanakadar masterdakiler de dahil)
+-git merge [isim]-->iki brnachı birlestirir(bulunulan brancha ismindeki branchı tasır)
+-git branch -d[isim]-->ismindeki branchı siler
+-git branch -m [isim]-->bulunulan branchin ismini degistirir
+
+
+
+-git clone [url]  -->urldeki repo klonlanırve otomatik repo isminde klasor olusur yerele
+-repo ismi ile proje ismi aynı olursa iyi olur
+-git pull  -->degisiklikleri ceker
+
+(asagıdakı kodlar yerine clone yapmak daha kolay)
+-git remote add origin [remote url]-->localde en az bir defa commit olusturduktan sonra, herher proje icin bir kereye mahsus kullanılır. local ile remote iliskilendirilmis olur
+-git push -u origin master-->localde en az bir defa commit olusturduktan sonra, herher proje icin bir kereye mahsus kullanılır. local ile remote iliskilendirilmis olur 
+
+-git pull-->remotedan lokale ceker
+
+CONFLICT
+-aynı satırda lokalde ve remoteda degisiklik yapıldıktan sonra pull sonrası lokalde conflict meydana gelir.gerekli duzenleme yapıldıktan sonra push ile remote a gonderebiliriz
+-git merge -abort  birlestimeyi iptal eder
+-push yaparken de conflict olabilir yine duzeltip gondermek gerekir
+-pull yaparken hangi branch da isek remotedaki o branchdaki kodları ceker
+--branchtan brancha gonderdikten sonra remoteda mastera gecerken confkict olabilir-->pull request yapılması gerekir.bu duzeltmeye yonetici karar verir.
+duzeltmeden sonra commit merge yapılır
+
